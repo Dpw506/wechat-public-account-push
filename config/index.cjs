@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'c792680ced5f29174de8a42b16eeeb28',
 
-  PROVINCE: '宁夏',
-  CITY: '银川',
+  PROVINCE: "宁夏",
+  CITY: "银川",
 
   USERS: [
     {
@@ -39,6 +39,7 @@ const USER_CONFIG = {
           type: '节日', name: '相识纪念日', year: '2019', date: '03-09',
         },
       ],
+      love_day:"2019-03-09",
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
