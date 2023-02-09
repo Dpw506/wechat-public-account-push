@@ -40,6 +40,10 @@ const USER_CONFIG = {
         },
       ],
       love_day:"2019-03-09",
+      birthdays: [
+        {"name": "宝贝", "year": "1996", "data" : "10-20", "type": "new"},
+        {"name": "宝贝", "year": "1996", "data" : "10-16", "type": "new"}
+      ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
